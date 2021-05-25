@@ -1,0 +1,17 @@
+#############################################
+# Syntax Coloring Map For FrequencyGenerator
+#############################################
+# FUNCTIONS COLOR     ORANGE  KEYWORD1
+# MEMBERS   COLOR     BROWN   KEYWORD2
+# VARIABLES COLOR     BLUE    LITERAL1
+
+#############################################
+# Functions (KEYWORD1)
+#############################################
+FrequencyGenerator	KEYWORD1
+
+#############################################
+# Members (KEYWORD2)
+#############################################
+set	KEYWORD2
+read	KEYWORD2
