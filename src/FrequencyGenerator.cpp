@@ -109,7 +109,7 @@ Revision log:
 
 */
 
-#include <arduino.h>
+#include <Arduino.h>
 #include "FrequencyGenerator.h"
 
 //#define FRQGENUSEPB6  1       // Define to use  PB6 (Arduino pin 10)(using OC4B) instead
